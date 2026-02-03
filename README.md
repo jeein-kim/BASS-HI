@@ -5,9 +5,15 @@
 ---
 
 ## 🌌 Project Overview
-BASS-HI is the largest dedicated HI imaging survey of AGN host galaxies to date. By leveraging the **Swift-BAT AGN Spectroscopic Survey (BASS)**, we utilize a hard X-ray (14–195 keV) selection that provides a complete, dust-unbiased census of the local AGN population. 
 
-Our mission is to resolve the spatial and kinematic distribution of the cold atomic hydrogen (HI) reservoir. This allows us to understand how supermassive black holes (SMBHs) are fueled and how their feedback—mechanical or radiative—regulates star formation across the "Galactic Ecosystem."
+The **BASS-HI survey** is an HI imaging program of ~100 hard X-ray–selected active galactic nuclei (AGNs) from the Swift/BAT AGN Spectroscopic Survey ([BASS](https://www.bass-survey.com/)). The project aims to understand how cold atomic gas is supplied to and redistributed within AGN host galaxies, and how large-scale environmental processes such as interactions and gas accretion influence AGN activity. By using interferometric HI observations, **BASS-HI** directly maps extended gas morphologies and kinematics that are inaccessible to single-dish studies. The hard X-ray selection provides a relatively unbiased AGN census, including obscured systems, enabling a unique link between galaxy-scale gas properties, environment, and the central supermassive black hole.
+
+
+## Hard X-ray Selection
+
+The [BASS survey](https://www.bass-survey.com/) is based on hard X-ray (14–195 keV) selected AGNs from the Swift/BAT all-sky survey, which provides a complete, dust-unbiased census of the local AGN population. Unlike optical or soft X-ray selection, hard X-rays penetrate heavy obscuration, enabling the identification of both unobscured and heavily obscured AGNs. This allows **BASS-HI** to study AGN fueling and host galaxy gas properties across a broad range of evolutionary stages, including gas-rich and merger-driven systems that are often missed in other surveys.
+
+
 
 ### Current Status & Data
 The survey is built upon a multi-scale observing strategy:
