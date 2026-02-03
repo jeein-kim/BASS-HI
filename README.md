@@ -18,9 +18,22 @@ The [BASS survey](https://www.bass-survey.com/) is based on hard X-ray (14–195
 
 The BASS-HI survey is the largest H I imaging survey of AGN host galaxies to date, based on the hard X-ray–selected BASS sample. The primary goal of the project is to connect host galaxy environments to AGN activity by addressing two key questions: (1) how frequently AGN host galaxies experience externally driven gas accretion, and (2) whether such large-scale processes impact central AGN activity. To maximize sensitivity to recent or ongoing accretion events, the survey focuses on H I-rich systems, which are most likely to exhibit signatures of external gas supply.
 
-The full BASS-HI imaging sample consists of approximately 100 galaxies. This includes new Very Large Array (VLA) observations in C- and D-configurations of 40 northern targets, complemented by Australia Telescope Compact Array (ATCA) observations of 8 southern targets. In addition, extensive archival data from VLA, GMRT, WSRT, and ATCA have been incorporated, ensuring adequate sensitivity and spatial resolution across the sample.
 
 Targets were selected from the Swift/BAT AGN Spectroscopic Survey (BASS DR2), which provides detailed constraints on black hole properties for hard X-ray–selected AGNs. The sample is limited to nearby systems (D < 120 Mpc) to ensure sufficient physical resolution with the VLA, and requires prior single-dish H I detections to guarantee the presence of neutral gas. VLA C-configuration observations provide spatially resolved H I maps of the host galaxies, while deeper D-configuration data enable the detection of diffuse gas in the surrounding environment. All archival and newly obtained data are uniformly reprocessed and analyzed to create a homogeneous H I imaging dataset.
+
+
+## 📊 Sample Selection
+Our sample is meticulously selected to ensure statistical robustness and to maximize the probability of detecting gas-environment interactions.
+
+
+| Selection Step | # of Targets | Selection background & results |
+| :--- | :---: | :--- |
+| **BASS Survey** | 858 | Targets drawn from the optical spectroscopic follow-up of hard X-ray (14–195 keV)-selected AGNs (the Swift/BAT AGN Spectroscopic Survey; BASS DR2), providing detailed constraints on black hole properties |
+| **Nearby Sources** | 259 | A distance limit to ensure relatively good physical resolution with the VLA C-configuration ($D < 120$ Mpc, corresponding to 15" $\approx$ 8.7 kpc) |
+| **BASS-HI** | ~100 | A previous single-dish HI detection to guarantee the presence of neutral hydrogen gas |
+
+The full BASS-HI imaging sample consists of approximately 100 galaxies. This includes new Very Large Array (VLA) observations in C- and D-configurations of 40 northern targets, complemented by Australia Telescope Compact Array (ATCA) observations of 8 southern targets. In addition, extensive archival data from VLA, GMRT, WSRT, and ATCA have been incorporated, ensuring adequate sensitivity and spatial resolution across the sample.
+
 
 ---
 
