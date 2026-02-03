@@ -16,6 +16,26 @@ The [BASS survey](https://www.bass-survey.com/) is based on hard X-ray (14–195
 ---
 <br>
 
+## 🎯 Key Science Goals
+
+### 1. Resolving the AGN-HI Connection
+Previous studies relying on single-dish observations or stacking remained inconclusive regarding whether AGN hosts are gas-deficient. BASS-HI provides **spatially resolved mapping** to move beyond integrated mass measurements and limited lines-of-sight. This essential imaging allows us to link the cold gas reservoir directly to the central black hole properties for a more complete physical picture.
+
+### 2. HI Morphology and Kinematics
+We investigate the dynamic state of the cold gas through resolved imaging. By measuring the **distribution and total angular momentum** of the HI disk, we can pinpoint the cause of star formation quenching or triggering. Our high-resolution data identifies kinematic footprints—such as increased velocity dispersion or inverted gradients—that connect AGN feedback to host galaxy evolution.
+
+### 3. Probing the Environment and Accretion Histories
+HI's large extent makes it a vulnerable and sensitive probe of the surroundings. Using high-sensitivity VLA D-array data, we trace **diffuse and extended HI features**—such as HI bridges, tidal tails, and streams—that are invisible at other wavelengths. These features serve as footprints of **recent or ongoing gas accretion**, helping us understand how external gas supply fuels the central engine.
+
+
+
+### 4. A Statistically Robust Census of Resolved AGN Hosts
+This is the first time a **hard X-ray selected sample** has been mapped in HI collectively. By building the **largest HI imaging survey of local AGN hosts (~100 targets)**, BASS-HI provides the statistical power needed to systematically investigate the connection between environmental interactions and quasar activity across a diverse range of host galaxy properties.
+
+--
+<br>
+
+
 ## Current Status & Data
 
 The BASS-HI survey is the largest H I imaging survey of AGN host galaxies to date, based on the hard X-ray–selected BASS sample. The primary goal of the project is to connect host galaxy environments to AGN activity by addressing two key questions: (1) how frequently AGN host galaxies experience externally driven gas accretion, and (2) whether such large-scale processes impact central AGN activity. To maximize sensitivity to recent or ongoing accretion events, the survey focuses on H I-rich systems, which are most likely to exhibit signatures of external gas supply.
