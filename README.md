@@ -23,6 +23,14 @@ Triggering and sustaining AGN activity require a sufficient gas supply. It remai
 - How frequently do host galaxies experience externally driven gas accretion?
 - Do such large-scale processes have an impact on the central AGN activity?
 
+While the extended nature of HI allows us to pose key questions about the large-scale environment and externally driven processes, spatially resolved HI imaging further enables us to directly address the following questions by probing the internal distribution and kinematics of the cold gas within AGN host galaxies.
+
+- Where does the gas that fuels AGN activity originate?
+	•	How does the onset of AGN activity affect the cold atomic hydrogen (HI) reservoirs of their host galaxies?
+	•	Are AGNs responsible for quenching star formation, triggering it, or both, depending on evolutionary stage?
+
+<br>
+
 ### 1. Resolving the AGN-HI Connection
 Previous studies relying on single-dish observations or stacking remained inconclusive regarding whether AGN hosts are gas-deficient. BASS-HI provides **spatially resolved mapping** to move beyond integrated mass measurements and limited lines-of-sight. This essential imaging allows us to link the cold gas reservoir directly to the central black hole properties for a more complete physical picture.
 
