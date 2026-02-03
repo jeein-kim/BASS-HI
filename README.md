@@ -27,7 +27,7 @@ Triggering and sustaining AGN activity require a sufficient gas supply. It remai
 While the extended nature of HI allows us to trace the large-scale environment and signatures of external interactions, **spatially resolved HI imaging** enables us to probe how AGN activity couples to the cold atomic gas within their host galaxies. In particular, we address the following questions:
 
 - How does the onset of AGN activity affect the cold atomic hydrogen (HI) reservoirs of their host galaxies?
-- Is AGN feedback associated with the quenching or triggering of star formation, as imprinted in the HI gas from which molecular gas and stars can form.
+- Can AGN feedback be observationally linked to the quenching or triggering of star formation, as traced by the distribution and kinematics of the HI gas from which molecular gas and stars can form?
 
 
 <br>
