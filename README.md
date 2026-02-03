@@ -18,6 +18,8 @@ The [BASS survey](https://www.bass-survey.com/) is based on hard X-ray (14–195
 
 ## 🎯 Key Science Goals
 
+Triggering and sustaining AGN activity require a sufficient gas supply. It remains unclear whether internal secular evolution alone can provide this fuel, or whether external gas accretion is necessary. We therefore address the following questions:
+
 - How frequently do host galaxies experience externally driven gas accretion?
 - Do such large-scale processes have an impact on the central AGN activity?
 
