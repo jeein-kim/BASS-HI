@@ -4,7 +4,7 @@
 
 ## 🌌 Project Overview
 
-The **BASS-HI survey** is an HI imaging program of ~100 hard X-ray–selected active galactic nuclei (AGNs) from the Swift/BAT AGN Spectroscopic Survey ([BASS](https://www.bass-survey.com/)). The project aims to understand how cold atomic gas is supplied to and redistributed within AGN host galaxies, and how large-scale environmental processes such as interactions and gas accretion influence AGN activity. By using interferometric HI observations, **BASS-HI** directly maps extended gas morphologies and kinematics that are inaccessible to single-dish studies. The hard X-ray selection provides a relatively unbiased AGN census, including obscured systems, enabling a unique link between galaxy-scale gas properties, environment, and the central supermassive black hole.
+The **BASS-HI survey** is an HI imaging program of ~100 hard X-ray–selected active galactic nuclei (AGNs) from the Swift/BAT AGN Spectroscopic Survey ([BASS](https://www.bass-survey.com/)). The project aims to understand how cold atomic gas is supplied to and redistributed within AGN host galaxies, and how large-scale environmental processes such as galactic interactions and gas accretion influence AGN activity. By using interferometric HI observations, **BASS-HI** directly maps extended gas morphologies and kinematics that are inaccessible via single-dish studies. The hard X-ray selection provides a relatively unbiased AGN census, including obscured systems, enabling a unique link between galaxy-scale gas properties, environment, and the central supermassive black hole.
 
 ---
 <br>
