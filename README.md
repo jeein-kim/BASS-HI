@@ -76,7 +76,7 @@ The full BASS-HI imaging sample consists of approximately 100 galaxies. This inc
 ## Distribution of Host and AGN Properties
 
 <!-- <img width="646" height="506" alt="bass_HI_dist_bol" src="https://github.com/user-attachments/assets/0fac7061-3a46-410c-b5d1-b4e35ce77686" /> -->
-<img width="500" alt="bass_HI_dist_bol" src="https://github.com/user-attachments/assets/0fac7061-3a46-410c-b5d1-b4e35ce77686" />
+<img width="500" alt="bass_HI_dist_bol" src="https://github.com/user-attachments/assets/0fac7061-3a46-410c-b5d1-b4e35ce77686" style="display:block; margin:auto;" />
 
 In this section, we present the distributions of several AGN and host-galaxy properties for the BASS–HI sample and the parent BASS survey.
 The BASS–HI survey applies only two selection criteria to the parent BASS sample: a distance cut and a requirement for sufficient gas content to enable robust H I analysis. As a result, the selected galaxies provide a relatively uniform representation of the local BASS galaxy population.
