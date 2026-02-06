@@ -70,6 +70,37 @@ Our sample is meticulously selected to ensure statistical robustness and to maxi
 
 The full BASS-HI imaging sample consists of approximately 100 galaxies. This includes new Very Large Array (VLA) observations in C- and D-configurations of 40 northern targets, complemented by Australia Telescope Compact Array (ATCA) observations of 8 southern targets. In addition, extensive archival data from VLA, GMRT, WSRT, and ATCA have been incorporated, ensuring adequate sensitivity and spatial resolution across the sample.
 
+---
+<br>
+
+## Distribution of Host and AGN Properties
+
+<img width="646" height="506" alt="bass_HI_dist_bol" src="https://github.com/user-attachments/assets/0fac7061-3a46-410c-b5d1-b4e35ce77686" />
+
+The [BASS survey](https://www.bass-survey.com/) is based on hard X-ray (14–195 keV) selected AGNs from the Swift/BAT all-sky survey, which offers a more complete and less dust-biased view of the local AGN population. Compared to optical or soft X-ray selection, hard X-rays are less sensitive to torus obscuration, allowing access to a broader range of AGN obscuration states. This allows **BASS-HI** to study AGN fueling and host galaxy gas properties across a broad range of evolutionary stages, including gas-rich and merger-driven systems that are often missed in other surveys. 
+Furthermore, the follow-up BASS observations provides a wealth of multiwavelength measurements of central black hole and host galaxy properties (e.g., Eddington ratio, black hole mass, star formation rate, etc.), making the BASS-selected AGN sample an ideal laboratory for probing the physical link between AGN activity and the cold gas in their host galaxies.
+
+
+## image test
+
+<div style="display: flex; align-items: flex-start; gap: 16px;">
+  <img
+    src="https://github.com/user-attachments/assets/0fac7061-3a46-410c-b5d1-b4e35ce77686"
+    alt="bass_HI_dist_bol"
+    style="width: 280px; height: auto;"
+  />
+  <div>
+    <p>
+      Text goes here.  
+      You can explain that the BASS sample is only distance-limited and that
+      no additional biases are present in other parameters.
+    </p>
+    <p>
+      Additional sentences are fine.
+    </p>
+  </div>
+</div>
+
 
 ---
 
