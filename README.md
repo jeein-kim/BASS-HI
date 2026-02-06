@@ -76,7 +76,7 @@ The full BASS-HI imaging sample consists of approximately 100 galaxies. This inc
 In this section, we present the distributions of several AGN and host-galaxy properties for the BASS–HI sample and the parent BASS survey.
 The BASS–HI survey applies only two selection criteria to the parent BASS sample: 1) a distance cut and 2) a requirement for sufficient gas content to enable robust HI analysis. As a result, the selected galaxies provide a relatively uniform representation of the local BASS galaxy population.
 
-
+To show this, we present two figures. 
 The top figure shows the distribution of bolometric luminosity for [the BASS DR2 (Koss et al. 2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..261....1K/abstract), **BASS–HI sample**, and the distance cut (D = 120 Mpc) as a vertical dashed line. 
 
 In the bottom panels, we compare key AGN and host-galaxy properties between our sample and the local BASS DR2 population with the same redshift range.
