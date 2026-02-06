@@ -79,7 +79,7 @@ The BASS–HI survey applies only two selection criteria to the parent BASS samp
 To show this, we present two figures. 
 The top figure shows the distribution of bolometric luminosity for [the BASS DR2 (Koss et al. 2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..261....1K/abstract), **BASS–HI sample**, and the distance cut (D = 120 Mpc) as a vertical dashed line. 
 
-In the bottom panels, we compare key AGN and host-galaxy properties between our sample and the local BASS DR2 population with the same redshift range.
+In the bottom histograms, we compare key AGN and host-galaxy properties between our sample and the local BASS DR2 population with the same redshift range.
 Shown, from left to right, are the distributions of black hole mass, Eddington ratio, host-galaxy stellar mass, and star formation rate.
 
 <!-- <img width="1202" height="975" alt="basshi_hist" src="https://github.com/user-attachments/assets/0513850a-e0aa-4b2e-a114-1c82f82c6999" /> -->
