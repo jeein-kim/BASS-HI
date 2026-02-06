@@ -24,7 +24,7 @@ Triggering and sustaining AGN activity require a sufficient gas supply. It remai
 - How frequently do host galaxies experience externally driven gas accretion?
 - Do such large-scale processes have an impact on the central AGN activity?
 
-While the extended nature of HI allows us to trace the large-scale environment and signatures of external interactions, **spatially resolved HI imaging** enables us to probe how AGN activity couples to the cold atomic gas within their host galaxies. In particular, we address the following questions:
+While the extended nature of HI allows us to trace the large-scale environment and signatures of external interactions, **spatially resolved HI imaging** enables us to probe how AGN activity couples to the cold atomic gas in host galaxies. In particular, we address the following questions:
 
 - How does the onset of AGN activity affect the cold atomic hydrogen (HI) reservoirs of their host galaxies?
 - Can AGN feedback be observationally linked to the quenching or triggering of star formation, as traced by the distribution and kinematics of the HI gas from which molecular gas and stars can form?
