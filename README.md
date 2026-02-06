@@ -95,7 +95,7 @@ Shown, from left to right, are the distributions of black hole mass, Eddington r
 
 <!-- <img width="1014" height="1048" alt="infographic_basshi_telescopes" src="https://github.com/user-attachments/assets/703fb7ad-055c-4d34-9d10-f607aa704ff2" /> -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/703fb7ad-055c-4d34-9d10-f607aa704ff2" width="500">
+  <img src="https://github.com/user-attachments/assets/703fb7ad-055c-4d34-9d10-f607aa704ff2" width="250">
 </p>
 
 The BASS-HI survey is based on proprietary interferometric observations obtained with the VLA and ATCA, complemented by a wide range of ancillary archival data. All observations and data reduction have now been completed. We are currently finalizing the statistical analysis and preparing a catalog paper that will present the full survey sample and data products.
