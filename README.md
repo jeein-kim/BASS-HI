@@ -9,7 +9,7 @@ The **BASS-HI survey** is an HI imaging program of ~100 hard X-ray–selected ac
 ---
 <br>
 
-## Hard X-ray Selection
+## 🔷 Hard X-ray Selection
 
 The [BASS survey](https://www.bass-survey.com/) is based on hard X-ray (14–195 keV) selected AGNs from the Swift/BAT all-sky survey, which offers a more complete and less dust-biased view of the local AGN population. Compared to optical or soft X-ray selection, hard X-rays are less sensitive to torus obscuration, allowing access to a broader range of AGN obscuration states. This allows **BASS-HI** to study AGN fueling and host galaxy gas properties across a broad range of evolutionary stages, including gas-rich and merger-driven systems that are often missed in other surveys. 
 Furthermore, the follow-up BASS observations provides a wealth of multiwavelength measurements of central black hole and host galaxy properties (e.g., Eddington ratio, black hole mass, star formation rate, etc.), making the BASS-selected AGN sample an ideal laboratory for probing the physical link between AGN activity and the cold gas in their host galaxies.
@@ -65,7 +65,7 @@ The full BASS-HI imaging sample consists of approximately 100 galaxies. This inc
 ---
 <br>
 
-## Distribution of Host and AGN Properties
+## 🔶 Distribution of Host and AGN Properties
 
 <!-- <img width="646" height="506" alt="bass_HI_dist_bol" src="https://github.com/user-attachments/assets/0fac7061-3a46-410c-b5d1-b4e35ce77686" /> -->
 <!-- <img width="500" alt="bass_HI_dist_bol" src="https://github.com/user-attachments/assets/0fac7061-3a46-410c-b5d1-b4e35ce77686" style="display:block; margin:auto;" /> -->
