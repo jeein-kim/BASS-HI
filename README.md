@@ -75,7 +75,8 @@ The full BASS-HI imaging sample consists of approximately 100 galaxies. This inc
 
 ## Distribution of Host and AGN Properties
 
-<img width="646" height="506" alt="bass_HI_dist_bol" src="https://github.com/user-attachments/assets/0fac7061-3a46-410c-b5d1-b4e35ce77686" />
+<!-- <img width="646" height="506" alt="bass_HI_dist_bol" src="https://github.com/user-attachments/assets/0fac7061-3a46-410c-b5d1-b4e35ce77686" /> -->
+<img width="500" alt="bass_HI_dist_bol" src="https://github.com/user-attachments/assets/0fac7061-3a46-410c-b5d1-b4e35ce77686" />
 
 In this section, we present the distributions of several AGN and host-galaxy properties for the BASS–HI sample and the parent BASS survey.
 The BASS–HI survey applies only two selection criteria to the parent BASS sample: a distance cut and a requirement for sufficient gas content to enable robust H I analysis. As a result, the selected galaxies provide a relatively uniform representation of the local BASS galaxy population.
@@ -87,30 +88,6 @@ In the bottom panels, we compare key AGN and host-galaxy properties between our 
 Shown, from left to right, are the distributions of black hole mass, Eddington ratio, host-galaxy stellar mass, and star formation rate.
 
 
-## image test
-
-<div style="display: flex; align-items: flex-start; gap: 16px;">
-  <img
-    src="https://github.com/user-attachments/assets/0fac7061-3a46-410c-b5d1-b4e35ce77686"
-    alt="bass_HI_dist_bol"
-    style="width: 450px; height: auto;"
-  />
-  <div>
-    <p>
-      In this section, we present the distributions of several AGN and host-galaxy properties for the BASS–HI sample and the parent BASS survey.
-The BASS–HI survey applies only two selection criteria to the parent BASS sample: a distance cut and a requirement for sufficient gas content to enable robust H I analysis. As a result, the selected galaxies provide a relatively uniform representation of the local BASS galaxy population.
-
-
-The top figure shows the distribution of bolometric luminosity for the  BASS DR2,  BASS–HI sample, and the distance cut (D = 120 Mpc) as a vertical dashed line. 
-
-In the bottom panels, we compare key AGN and host-galaxy properties between our sample and the local BASS DR2 population with the same redshift range.
-Shown, from left to right, are the distributions of black hole mass, Eddington ratio, host-galaxy stellar mass, and star formation rate.
-    </p>
-    <p>
-      Additional sentences are fine.
-    </p>
-  </div>
-</div>
 
 
 ---
