@@ -77,8 +77,14 @@ The full BASS-HI imaging sample consists of approximately 100 galaxies. This inc
 
 <img width="646" height="506" alt="bass_HI_dist_bol" src="https://github.com/user-attachments/assets/0fac7061-3a46-410c-b5d1-b4e35ce77686" />
 
-The [BASS survey](https://www.bass-survey.com/) is based on hard X-ray (14–195 keV) selected AGNs from the Swift/BAT all-sky survey, which offers a more complete and less dust-biased view of the local AGN population. Compared to optical or soft X-ray selection, hard X-rays are less sensitive to torus obscuration, allowing access to a broader range of AGN obscuration states. This allows **BASS-HI** to study AGN fueling and host galaxy gas properties across a broad range of evolutionary stages, including gas-rich and merger-driven systems that are often missed in other surveys. 
-Furthermore, the follow-up BASS observations provides a wealth of multiwavelength measurements of central black hole and host galaxy properties (e.g., Eddington ratio, black hole mass, star formation rate, etc.), making the BASS-selected AGN sample an ideal laboratory for probing the physical link between AGN activity and the cold gas in their host galaxies.
+In this section, we present the distributions of several AGN and host-galaxy properties for the BASS–HI sample and the parent BASS survey.
+The BASS–HI survey applies only two selection criteria to the parent BASS sample: a distance cut and a requirement for sufficient gas content to enable robust H I analysis. As a result, the selected galaxies provide a relatively uniform representation of the local BASS galaxy population.
+
+
+The top figure shows the distribution of bolometric luminosity for the  BASS DR2,  BASS–HI sample, and the distance cut (D = 120 Mpc) as a vertical dashed line. 
+
+In the bottom panels, we compare key AGN and host-galaxy properties between our sample and the local BASS DR2 population with the same redshift range.
+Shown, from left to right, are the distributions of black hole mass, Eddington ratio, host-galaxy stellar mass, and star formation rate.
 
 
 ## image test
@@ -87,13 +93,18 @@ Furthermore, the follow-up BASS observations provides a wealth of multiwavelengt
   <img
     src="https://github.com/user-attachments/assets/0fac7061-3a46-410c-b5d1-b4e35ce77686"
     alt="bass_HI_dist_bol"
-    style="width: 280px; height: auto;"
+    style="width: 450px; height: auto;"
   />
   <div>
     <p>
-      Text goes here.  
-      You can explain that the BASS sample is only distance-limited and that
-      no additional biases are present in other parameters.
+      In this section, we present the distributions of several AGN and host-galaxy properties for the BASS–HI sample and the parent BASS survey.
+The BASS–HI survey applies only two selection criteria to the parent BASS sample: a distance cut and a requirement for sufficient gas content to enable robust H I analysis. As a result, the selected galaxies provide a relatively uniform representation of the local BASS galaxy population.
+
+
+The top figure shows the distribution of bolometric luminosity for the  BASS DR2,  BASS–HI sample, and the distance cut (D = 120 Mpc) as a vertical dashed line. 
+
+In the bottom panels, we compare key AGN and host-galaxy properties between our sample and the local BASS DR2 population with the same redshift range.
+Shown, from left to right, are the distributions of black hole mass, Eddington ratio, host-galaxy stellar mass, and star formation rate.
     </p>
     <p>
       Additional sentences are fine.
