@@ -13,8 +13,8 @@
 
 ## 🔷 Hard X-ray Selection
 
-The [BASS survey](https://www.bass-survey.com/) is based on hard X-ray (14–195 keV) selected AGNs from the Swift/BAT all-sky survey, which offers a more complete and less dust-biased view of the local AGN population. Compared to optical or soft X-ray selection, hard X-rays are less sensitive to torus obscuration, allowing access to a broader range of AGN obscuration states. This allows **BASS-HI** to study AGN fueling and host galaxy gas properties across a broad range of evolutionary stages, including gas-rich and merger-driven systems that are often missed in other surveys. 
-Furthermore, the follow-up BASS observations provides a wealth of multiwavelength measurements of central black hole and host galaxy properties (e.g., Eddington ratio, black hole mass, star formation rate, etc.), making the BASS-selected AGN sample an ideal laboratory for probing the physical link between AGN activity and the cold gas in their host galaxies.
+- The [BASS survey](https://www.bass-survey.com/) is based on hard X-ray (14–195 keV) selected AGNs from the Swift/BAT all-sky survey, which offers less dust-biased view, allowing access to a more complete view of the local AGN population. Probing diverse AGN types allows **BASS-HI** to study AGN fueling and host galaxy gas properties across **a broad range of evolutionary stages, including gas-rich and merger-driven systems** that are often missed in other surveys.
+- Furthermore, the follow-up BASS observations provides a wealth of multiwavelength measurements of central black hole and host galaxy properties (e.g., Eddington ratio, black hole mass, star formation rate, etc.), making the BASS-selected AGN sample an ideal laboratory for probing the physical link between AGN activity and the cold gas in their host galaxies.
 
 ---
 <br>
