@@ -116,5 +116,5 @@ We plan to make fully reduced H I data cubes and moment maps available, subject 
 <br><br>
 
 
-contact: _jikim at gmail dot com _
+contact: _jikim_ at _gmail_ dot _com_
 
